@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520308331 source:/home/chengzi/Code_Blocks/C_learn/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<math.h>
+	<string.h>
+

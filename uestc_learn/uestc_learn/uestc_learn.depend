@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1519563948 source:/home/chengzi/Code_Blocks/uestc_learn/uestc_learn/main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+

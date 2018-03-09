@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520471126 source:/home/chengzi/Code_Blocks/before_2014/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
